@@ -1,0 +1,12 @@
+.footer__links {
+  list-style-type: none;
+}
+
+@media (max-width: 700px) {
+  .footer__links {
+    padding-bottom: 32px;
+  }
+  .footer__links:last-child {
+    padding-bottom: 0;
+  }
+}

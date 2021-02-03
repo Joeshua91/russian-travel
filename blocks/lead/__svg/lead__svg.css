@@ -1,0 +1,8 @@
+.lead__svg {
+  position: absolute;
+  width: 95.25%;
+  height: 100%;
+  -webkit-transform: translate(-102.5%, -15.2%);
+  -ms-transform: translate(-102.5%, -15.2%);
+  transform: translate(-102.5%, -15.2%);
+}
