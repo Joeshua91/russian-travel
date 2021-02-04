@@ -15,7 +15,6 @@
 @media (max-width: 1024px) {
   .footer {
     max-width: 928px;
-    margin: 92px 48px 24px;
   }
 }
 
@@ -40,10 +39,6 @@
 
 @media (max-width: 425px) {
   .footer {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
     max-width: 425px;
     margin-top: 64px;
     margin-bottom: 24px;

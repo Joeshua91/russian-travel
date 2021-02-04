@@ -19,6 +19,7 @@
   background-image: url(../../../images/cover-trains.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
@@ -37,7 +38,7 @@
   -webkit-transition: opacity .5s ease-out;
   -o-transition: opacity .5s ease-out;
   transition: opacity .5s ease-out;
-  opacity: .2;
+  opacity: .3;
 }
 
 .cover__background:hover:before {

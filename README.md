@@ -12,3 +12,6 @@
 * CSS-анимации и трансформации;
 * Figma;
 * Кроссбраузерная и адаптивная верстка.
+
+------
+[проект на gh-pages](https://joeshua91.github.io/russian-travel/)
