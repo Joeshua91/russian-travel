@@ -14,4 +14,4 @@
 * Кроссбраузерная и адаптивная верстка.
 
 ------
-[проект на gh-pages](https://joeshua91.github.io/russian-travel/)
+[проект на gh-pages](https://joeshua91.github.io/russian-travel/index.html)
